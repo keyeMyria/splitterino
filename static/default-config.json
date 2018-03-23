@@ -1,0 +1,11 @@
+{
+    "splits": {
+        "shortcuts": {
+            "split": "Control+K",
+            "pause": "Control+L",
+            "reset": "Control+J",
+            "skip": "Control+O",
+            "revert": "Control+I"
+        }
+    }
+}
